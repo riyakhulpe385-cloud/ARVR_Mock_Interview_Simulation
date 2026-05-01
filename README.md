@@ -1,32 +1,39 @@
-# ARVR_Mock_Interview_Simulation
-📌 AR/VR Mock Interview Simulation System
+# AR/VR Mock Interview Simulation System
 
-🔹 Overview
-This project presents the design of an AR/VR-based mock interview simulation system aimed at improving placement readiness. The system simulates real interview environments using immersive technology to help users practice communication skills and build confidence.
+## 📌 Overview
+This project presents the design and development of an AR/VR-based mock interview simulation system aimed at improving placement readiness. It simulates real interview scenarios to help users practice communication and build confidence.
 
-🔹 Problem Statement
-Traditional mock interviews lack scalability, consistency, and realism. This project addresses these challenges by proposing an immersive and repeatable interview simulation platform.
+## 🎯 Objective
+To create an immersive interview environment that enhances preparation through realistic interaction and simulation.
 
-🔹 Key Features
-Simulated interview environment
-Structured interview question flow
-Immersive AR/VR experience
-Scalable and repeatable practice
+## 🚀 Features
+- Simulated interview environment
+- Interactive scene using Unity
+- Role-based interview setup (Student & Teacher)
+- Basic audio interaction (AudioPlayOnKey)
 
-🔹 Technologies / Concepts Used
-AR/VR (Unity-based concept)
-System Design
-Research & Analysis
+## 🛠 Technologies Used
+- Unity (Game Engine)
+- C#
+- AR/VR Concepts
 
-🔹 My Contribution
-Contributed to research and literature review
-Assisted in system design and concept development
-Worked on documentation and project presentation
+## 👩‍💻 My Contribution
+- Contributed to system design and development
+- Worked on Unity scene setup and logic implementation
+- Assisted in research and documentation
 
-🔹 Future Scope
-AI-based dynamic interviewer
-Real-time feedback system
-NLP-based response analysis
+## 📂 Project Structure
+- Assets → Contains scripts, scenes, and resources
+- Packages → Dependencies
+- ProjectSettings → Unity configurations
 
-🔹 Project Documentation
-📄 Detailed research paper included in repository
+## ⚠️ Note
+Large 3D asset files have been excluded to maintain repository size.
+
+## 📄 Documentation
+Refer to the research paper included in the repository.
+
+## 🔮 Future Scope
+- AI-based interviewer
+- Real-time feedback system
+- Voice analysis integration
