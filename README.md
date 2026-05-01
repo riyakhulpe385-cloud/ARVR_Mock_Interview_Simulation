@@ -37,3 +37,14 @@ Refer to the research paper included in the repository.
 - AI-based interviewer
 - Real-time feedback system
 - Voice analysis integration
+
+## ▶️ Project Usage
+This repository contains the core structure and design of the system. 
+Full asset files are excluded due to size limitations.
+
+This project was developed as part of an academic research initiative focusing on improving placement readiness using AR/VR technology.
+
+## 🎯 Key Learning
+- Understanding of immersive system design
+- Application of AR/VR concepts in education
+- Team collaboration and research skills
